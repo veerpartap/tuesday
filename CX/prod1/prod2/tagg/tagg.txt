@@ -1,0 +1,5 @@
+there are a two main types of tags in git 
+	lighweight
+	annotated
+lightwieght are very mich like branches that dont change
+

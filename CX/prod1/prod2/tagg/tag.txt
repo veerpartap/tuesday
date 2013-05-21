@@ -1,0 +1,1 @@
+creating an annotated tag in git is very simple.
