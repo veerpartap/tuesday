@@ -1,1 +1,5 @@
-A squash merge means the merger/committer is responsible for resolving any merge conflicts. If the committer is not the same person as the author, well, that code review just took even longer. And the Committer just rewrote history, perhaps not in a good way i.e. if someone else’s already squashed their branch, then a merge-squash is redundant and the committer will appear as the author of that merge commit. Oops.
+A squash merge means the merger/committer is responsible for resolving any merge conflicts.
+If the committer is not the same person as the author, well, that code review just took even longer.
+And the Committer just rewrote history, perhaps not in a good way i.e.
+if someone else’s already squashed their branch, then a merge-squash is redundant and the committer will
+appear as the author of that merge commit. Oops.
