@@ -1,0 +1,12 @@
+You are happily working on something, and find the changes in these files are in good order.
+¬You do not want to see them when you run "git diff", because you plan to work on other files and
+changes with these files are distracting.
+
+Somebody asks you to pull, and the changes sounds worthy of merging.
+
+However, you already dirtied the index (i.e. your index does not match the HEAD commit).
+But you know the pull you are going to make does not affect frotz.c nor filfre.c,
+so you revert the index changes for these two files. Your changes in working tree remain there.
+
+Then you can pull and merge, leaving frotz.c and filfre.c changes still in the working tree.
+
