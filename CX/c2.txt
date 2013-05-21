@@ -1,0 +1,2 @@
+This file is c2.txt 
+Kindly ignore these contents
