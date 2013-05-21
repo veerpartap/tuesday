@@ -9,4 +9,3 @@ But you know the pull you are going to make does not affect frotz.c nor filfre.c
 so you revert the index changes for these two files. Your changes in working tree remain there.
 
 Then you can pull and merge, leaving frotz.c and filfre.c changes still in the working tree.
-
