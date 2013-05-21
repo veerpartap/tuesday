@@ -1,3 +1,7 @@
 Mac os is very good operating system.
 
 I like it very much
+
+
+the more you are familiar with command line the better. but not a must
+	scp - cp file to print
